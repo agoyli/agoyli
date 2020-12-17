@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Django**
 
-- 🤝 I’m looking for help with [EduBox](github.com/eduboxtm)
+- 🤝 I’m looking for help with [EduBox](http://github.com/eduboxtm)
 
 - 💬 Ask me about **PHP, Laravel, Symfony**
 
