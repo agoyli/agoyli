@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agoyli</h1>
 <h3 align="center">A passionate backend developer from Turkmenistan</h3>
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **TDD, DDD**
+
+- :blue_book: I’m currently reading **Clean Coder, Clean Code**
 
 - 🤝 I’m looking for help with [EduBox](http://github.com/eduboxtm)
 
