@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Agoyli</h1>
 <h3 align="center">A passionate backend developer from Turkmenistan</h3>
 
-- 🌱 I’m currently learning **TDD, DDD**
+- 🌱 I’m currently learning **TDD, DDD, **
 
-- :blue_book: I’m currently reading **Clean Coder, Clean Code**
+- :blue_book: I’m currently reading **Clean Coder, Clean Code, The Pragmatic Programmer**
 
 - 🤝 I’m looking for help with [EduBox](http://github.com/eduboxtm)
 
-- 💬 Ask me about **PHP, Laravel, Symfony**
+- 💬 Ask me about **Golang, PHP, JS**
 
-- 📫 How to reach me **agoyliq@ya.ru**
+- 📫 How to reach me **agoyliq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
